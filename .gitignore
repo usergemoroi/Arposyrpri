@@ -1,0 +1,36 @@
+# Temporary extraction directories
+apk_extract/
+apk_temp/
+temp/
+
+# Backup files
+*.bak
+*.backup
+*.orig
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build artifacts
+*.tmp
+*.tmp.apk
+debug.keystore
+
+# Logs
+*.log
